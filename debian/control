@@ -11,7 +11,7 @@ Build-Depends:
  meson,
  pkgconf,
  python3-gi,
- python3-xdg
+ python3-xdg,
 Standards-Version: 4.4.1
 Homepage: https://github.com/jack-mixer/jack_mixer
 #Vcs-Browser: https://salsa.debian.org/debian/jack-mixer
@@ -22,7 +22,7 @@ Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: jack_mixer -- Jack Audio Mixer
  jack_mixer is a GTK+ JACK audio mixer app with a look & handling similar to hardware mixing desks. It has lot of useful features, apart from being able to mix multiple JACK audio streams.
-
+ .
  It is licensed under GPL version 2 (or later), check the file COPYING for more information.
-
+ .
  Please visit the project's homepage at https://rdio.space/jackmixer/ for more information.

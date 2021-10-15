@@ -1,7 +1,7 @@
 Source: jack-mixer
 Section: sound
 Priority: optional
-Maintainer: daryl <daryl01@hotmail.com>
+Maintainer: Daryl Hanlon <daryl01@hotmail.com>
 Build-Depends:
  debhelper-compat (= 12),
  build-essential,

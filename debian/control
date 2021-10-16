@@ -1,7 +1,9 @@
 Source: jack-mixer
 Section: sound
 Priority: optional
-Maintainer: Daryl Hanlon <darylo1@hotmail.com>
+Maintainer:
+ Daniel Sheeler <dsheeler@pobox.com>,
+ Christopher Arndt <chris@chrisarndt.de>
 Build-Depends:
  debhelper-compat (= 12),
  build-essential,

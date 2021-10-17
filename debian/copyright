@@ -1,6 +1,8 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: jack-mixer
-Upstream-Contact: <preferred name and address to reach the upstream project>
+Upstream-Contact: 
+ Daniel Sheeler <dsheeler@pobox.com>,
+ Christopher Arndt <chris@chrisarndt.de>
 Source: https://github.com/jack-mixer/jack_mixer
 
 Files: *
